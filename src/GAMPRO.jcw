@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>GAMPRO</label>
+	</settings>
+	<users>
+		<user>
+			<path>GAMPRO.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>GAMPRO.jcp</path>
+		</project>
+	</projects>
+</workspace>
